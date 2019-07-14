@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4.0: Phase 1 Challenge- Android</string>
+    <string name="slack_name">\@Soheib Bettahar</string>
+    <string name="my_name">Soheib Bettahar</string>
+    <string name="my_track">Android</string>
+    <string name="my_country">Algeria</string>
+    <string name="my_email">soheibbett@gmail.com</string>
+    <string name="my_phone_number">+213699840015</string>
+    <string name="my_profile">Profile</string>
+    <string name="about_alc">About Us</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="track_icon">track icon</string>
+    <string name="country_icon">country icon</string>
+    <string name="email_icon">email icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="slack_icon">slack icon</string>
+    <string name="profile_picture">profile_picture</string>
+    <string name="alc_image">alc background image</string>
+</resources>
